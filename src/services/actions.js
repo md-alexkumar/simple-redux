@@ -16,13 +16,13 @@ export const doDecrement = () => ({ type: DECREMENT, payload: 1 });
 
 export const doIncrementAsync = () => (dispatch) => {
   axios
-    .get("https://jsonplaceholder.typicode.com/todos/1")
+    .get("https://jsonplaceholder.typicode.com/todos/1") // dummy rest api
     .then(() => dispatch({ type: INCREMENT_ASYNC }))
     .catch(() => dispatch({ type: INCREMENT_ASYNC }));
 };
 export const doDecrementAsync = () => (dispatch) => {
   axios
-    .get("https://jsonplaceholder.typicode.com/todos/1")
+    .get("https://jsonplaceholder.typicode.com/todos/1") // dummy rest api
     .then(() => dispatch({ type: DECREMENT_ASYNC }))
     .catch(() => dispatch({ type: DECREMENT_ASYNC }));
 };
