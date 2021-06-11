@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.aed95849.chunk.css",
-    "main.js": "/static/js/main.9106e53f.chunk.js",
-    "main.js.map": "/static/js/main.9106e53f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dad9945f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dad9945f.js.map",
-    "static/js/2.a98ad23b.chunk.js": "/static/js/2.a98ad23b.chunk.js",
-    "static/js/2.a98ad23b.chunk.js.map": "/static/js/2.a98ad23b.chunk.js.map",
-    "static/js/3.8476edcf.chunk.js": "/static/js/3.8476edcf.chunk.js",
-    "static/js/3.8476edcf.chunk.js.map": "/static/js/3.8476edcf.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.aed95849.chunk.css.map": "/static/css/main.aed95849.chunk.css.map",
-    "static/js/2.a98ad23b.chunk.js.LICENSE.txt": "/static/js/2.a98ad23b.chunk.js.LICENSE.txt"
+    "main.css": "/simple-redux/static/css/main.aed95849.chunk.css",
+    "main.js": "/simple-redux/static/js/main.9106e53f.chunk.js",
+    "main.js.map": "/simple-redux/static/js/main.9106e53f.chunk.js.map",
+    "runtime-main.js": "/simple-redux/static/js/runtime-main.f125f618.js",
+    "runtime-main.js.map": "/simple-redux/static/js/runtime-main.f125f618.js.map",
+    "static/js/2.a98ad23b.chunk.js": "/simple-redux/static/js/2.a98ad23b.chunk.js",
+    "static/js/2.a98ad23b.chunk.js.map": "/simple-redux/static/js/2.a98ad23b.chunk.js.map",
+    "static/js/3.8476edcf.chunk.js": "/simple-redux/static/js/3.8476edcf.chunk.js",
+    "static/js/3.8476edcf.chunk.js.map": "/simple-redux/static/js/3.8476edcf.chunk.js.map",
+    "index.html": "/simple-redux/index.html",
+    "static/css/main.aed95849.chunk.css.map": "/simple-redux/static/css/main.aed95849.chunk.css.map",
+    "static/js/2.a98ad23b.chunk.js.LICENSE.txt": "/simple-redux/static/js/2.a98ad23b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dad9945f.js",
+    "static/js/runtime-main.f125f618.js",
     "static/js/2.a98ad23b.chunk.js",
     "static/css/main.aed95849.chunk.css",
     "static/js/main.9106e53f.chunk.js"
