@@ -1,0 +1,12 @@
+body { margin: 0 25%; }
+.App {
+  background: linear-gradient(241deg, #597990 24%, #db8e5a);
+  padding: 20vw 0;
+  text-align: center;
+}
+.App-title{
+  color: #fffaf0;
+  font-size: 2rem;
+}
+.App-count { font-size: 2rem; }
+.App-btn { padding: 10px; }
