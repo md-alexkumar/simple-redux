@@ -11,6 +11,7 @@ function Count() {
   const dispatch = useDispatch();
   const doIncrement = () => dispatch(doIncrementAsync());
   const doDecrement = () => dispatch(doDecrementAsync());
+  console.log('count1', count1);
   return (
     <div className="App">
       <div className="App-title">Using redux for Async actions</div>
